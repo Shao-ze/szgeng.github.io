@@ -15,7 +15,7 @@ pronouns: he/his
 # Status emoji
 status:
   icon: ☕️
-
+avatar: gsz.jpg
 # Is this the primary user of the site?
 superuser: true
 
